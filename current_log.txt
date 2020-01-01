@@ -1,0 +1,1238 @@
+Tue Dec 31 22:52:33 GMT+08:00 2019 I CameraRollBackupProcessor run: trigger reason - SyncAdapterNetworkTickle 
+Tue Dec 31 22:52:33 GMT+08:00 2019 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Tue Dec 31 22:52:33 GMT+08:00 2019 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Tue Dec 31 22:52:33 GMT+08:00 2019 DATA AutoUploadService startSync invoked. 
+Tue Dec 31 22:52:33 GMT+08:00 2019 DATA CameraRollBackupProcessor Saved buckets found: 465 
+Tue Dec 31 22:52:33 GMT+08:00 2019 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Tue Dec 31 22:52:33 GMT+08:00 2019 I com.microsoft.skydrive.i.b refreshMetadata onComplete() 
+Tue Dec 31 22:52:36 GMT+08:00 2019 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA AutoUploadService endSync invoked with error code: 0 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor startBackup finished. 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor mTimeGetAllMediaItems:      0.042 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor mTotalItemScanned:          362 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor mTotalSizeHashed:           0 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor mTotalItemsHashed:          0 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor mTimeTotalHashing:          0.0 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor mMetadataQueried:           0 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor mTimeMetadataQueried:       0.0 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor mSyncMetadataQueried:       362 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor mTimeSyncMetadataQueried:   1.411 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor mTimeForProcessing:         3.042 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor mTimeForMetadataRefreshing: 0.066 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA CameraRollBackupProcessor mTotalItemsEnqueuedForUpload: 0 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA AutoUploadService Battery is charging. 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA AutoUploadService Battery level satisfied: false 
+Tue Dec 31 22:52:36 GMT+08:00 2019 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Tue Dec 31 22:52:36 GMT+08:00 2019 DATA AutoUploadService PauseService with error code: BatteryLevelLow Paused: true 
+Tue Dec 31 23:26:23 GMT+08:00 2019 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Tue Dec 31 23:26:23 GMT+08:00 2019 I CameraRollBackupProcessor run: trigger reason - SyncAdapterNetworkTickle 
+Tue Dec 31 23:26:23 GMT+08:00 2019 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Tue Dec 31 23:26:23 GMT+08:00 2019 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Tue Dec 31 23:26:23 GMT+08:00 2019 DATA AutoUploadService startSync invoked. 
+Tue Dec 31 23:26:23 GMT+08:00 2019 DATA CameraRollBackupProcessor Saved buckets found: 465 
+Tue Dec 31 23:26:23 GMT+08:00 2019 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Tue Dec 31 23:26:23 GMT+08:00 2019 I com.microsoft.skydrive.i.b refreshMetadata onComplete() 
+Tue Dec 31 23:26:25 GMT+08:00 2019 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA AutoUploadService endSync invoked with error code: 0 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor startBackup finished. 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor mTimeGetAllMediaItems:      0.038 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor mTotalItemScanned:          362 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor mTotalSizeHashed:           0 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor mTotalItemsHashed:          0 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor mTimeTotalHashing:          0.0 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor mMetadataQueried:           0 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor mTimeMetadataQueried:       0.0 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor mSyncMetadataQueried:       362 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor mTimeSyncMetadataQueried:   0.998 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor mTimeForProcessing:         2.183 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor mTimeForMetadataRefreshing: 0.071 
+Tue Dec 31 23:26:25 GMT+08:00 2019 DATA CameraRollBackupProcessor mTotalItemsEnqueuedForUpload: 0 
+Tue Dec 31 23:26:26 GMT+08:00 2019 DATA AutoUploadService Battery is charging. 
+Tue Dec 31 23:26:26 GMT+08:00 2019 DATA AutoUploadService Battery level satisfied: false 
+Tue Dec 31 23:26:26 GMT+08:00 2019 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Tue Dec 31 23:26:26 GMT+08:00 2019 DATA AutoUploadService PauseService with error code: BatteryLevelLow Paused: true 
+Tue Dec 31 23:47:09 GMT+08:00 2019 V ManualUploadService Upload Service Created. 
+Tue Dec 31 23:47:09 GMT+08:00 2019 V ManualUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.ManualUploadService } 
+Tue Dec 31 23:47:09 GMT+08:00 2019 V ModalUploadService Upload Service Created. 
+Tue Dec 31 23:47:09 GMT+08:00 2019 V ModalUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.ModalUploadService } 
+Tue Dec 31 23:47:09 GMT+08:00 2019 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Tue Dec 31 23:47:09 GMT+08:00 2019 DATA AutoUploadService Battery is charging. 
+Tue Dec 31 23:47:09 GMT+08:00 2019 V AsyncMoveService Upload Service Created. 
+Tue Dec 31 23:47:09 GMT+08:00 2019 V AsyncMoveService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.AsyncMoveService } 
+Tue Dec 31 23:47:09 GMT+08:00 2019 DATA AutoUploadService Battery is charging. 
+Tue Dec 31 23:47:10 GMT+08:00 2019 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Tue Dec 31 23:47:12 GMT+08:00 2019 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Tue Dec 31 23:47:12 GMT+08:00 2019 DATA AutoUploadService PauseService with error code: QuotaExceeded Paused: true 
+Tue Dec 31 23:47:12 GMT+08:00 2019 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.SCHEDULE_ITEMS cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Tue Dec 31 23:47:12 GMT+08:00 2019 V AutoUploadService failed to load item 200 with error code: QuotaExceeded 
+Wed Jan 01 00:50:26 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 00:50:26 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 00:50:26 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 02:53:52 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 02:53:52 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 02:53:52 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 03:58:17 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 03:58:17 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 03:58:17 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 05:10:52 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 05:10:52 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 05:10:52 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 06:19:48 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 06:19:48 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 06:19:48 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 07:35:03 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 07:35:03 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 07:35:03 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 08:38:56 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 08:38:56 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 08:38:56 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 09:54:03 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 09:54:03 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 09:54:03 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 10:58:39 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 10:58:39 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 10:58:39 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 11:41:53 GMT+08:00 2020 DATA LocalNotificationDailyJob Running Daily Job 
+Wed Jan 01 11:41:53 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 11:41:53 GMT+08:00 2020 I com.microsoft.skydrive.t.m Found 0 package(s) supporting SSO 
+Wed Jan 01 11:41:53 GMT+08:00 2020 I com.microsoft.skydrive.t.m Packages supporting SSO: [] 
+Wed Jan 01 11:41:53 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.outlook installed: false 
+Wed Jan 01 11:41:53 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.outlook a stub app: false 
+Wed Jan 01 11:41:53 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 11:41:53 GMT+08:00 2020 I com.microsoft.skydrive.t.m Found 0 package(s) supporting SSO 
+Wed Jan 01 11:41:53 GMT+08:00 2020 I com.microsoft.skydrive.t.m Packages supporting SSO: [] 
+Wed Jan 01 11:41:53 GMT+08:00 2020 I com.microsoft.odsp.d Stub check: Package com.microsoft.office.word has version 16.1.0.1 
+Wed Jan 01 11:41:53 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.word installed: true 
+Wed Jan 01 11:41:53 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.word a stub app: true 
+Wed Jan 01 11:41:53 GMT+08:00 2020 I com.microsoft.odsp.d Stub check: Package com.microsoft.office.onenote has version 16.0.12228.20292 
+Wed Jan 01 11:41:53 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.onenote installed: true 
+Wed Jan 01 11:41:53 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.onenote a stub app: false 
+Wed Jan 01 11:41:53 GMT+08:00 2020 DATA com.microsoft.skydrive.common.LGUtils Build model matches LG: false 
+Wed Jan 01 11:41:53 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: false 
+Wed Jan 01 11:41:53 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 11:41:54 GMT+08:00 2020 DATA LocalNotificationDailyJob OnStopJob called 
+Wed Jan 01 11:41:54 GMT+08:00 2020 E com.microsoft.skydrive.t.i Unable to check for expiring notifications java.net.UnknownHostException: Unable to resolve host "skyapi.live.net": No address associated with hostname
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+	at okhttp3.Dns$1.lookup(SourceFile:40)
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(SourceFile:185)
+	at okhttp3.internal.connection.RouteSelector.nextProxy(SourceFile:149)
+	at okhttp3.internal.connection.RouteSelector.next(SourceFile:84)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(SourceFile:214)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(SourceFile:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(SourceFile:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(SourceFile:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(SourceFile:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.logging.HttpLoggingInterceptor.intercept(SourceFile:156)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(SourceFile:254)
+	at okhttp3.RealCall.execute(SourceFile:92)
+	at e.h.a(SourceFile:180)
+	at e.g$a.a(SourceFile:91)
+	at com.microsoft.skydrive.t.i$1.run(SourceFile:184)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+	at libcore.io.Posix.android_getaddrinfo(Native Method)
+	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+	... 29 more
+
+Wed Jan 01 12:08:38 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 12:08:38 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 12:08:38 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 13:15:55 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 13:15:55 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 13:35:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Application is not started (:0) 
+Wed Jan 01 13:35:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Starting application (:0) 
+Wed Jan 01 13:35:25 GMT+08:00 2020 W com.microsoft.onedrivecore.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Wed Jan 01 13:35:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Opening database  "/data/data/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Wed Jan 01 13:35:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Current DB version is  75 (:0) 
+Wed Jan 01 13:35:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Log the database file info (:0) 
+Wed Jan 01 13:35:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface File: "/data/data/com.microsoft.skydrive/files/QTMetadata.db" size: 598016 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Jan 01 13:35:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface File: "/data/data/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Jan 01 13:35:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface File: "/data/data/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 90672 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Jan 01 13:35:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Wed Jan 01 13:35:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Wed Jan 01 13:35:25 GMT+08:00 2020 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Wed Jan 01 13:37:00 GMT+08:00 2020 I com.microsoft.authorization.a.d Build.VERSION.SDK_INT 22 
+Wed Jan 01 13:37:00 GMT+08:00 2020 DATA com.microsoft.odsp.k.c Build model matches: false 
+Wed Jan 01 13:37:00 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 13:37:00 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.a Read ServiceConnections list from preferences: 0 
+Wed Jan 01 13:37:00 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.a Read hidden cloud account IDs list from preferences: 0 
+Wed Jan 01 13:37:01 GMT+08:00 2020 V com.microsoft.tokenshare.m_v1.4.8 Can't get configuration from networkjava.net.UnknownHostException: Unable to resolve host "oneclient.sfx.ms": No address associated with hostname 
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: false 
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.skydrive.t.m Found 0 package(s) supporting SSO 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.skydrive.t.m Packages supporting SSO: [] 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.outlook installed: false 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.outlook a stub app: false 
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.skydrive.t.m Found 0 package(s) supporting SSO 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.skydrive.t.m Packages supporting SSO: [] 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.odsp.d Stub check: Package com.microsoft.office.word has version 16.1.0.1 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.word installed: true 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.word a stub app: true 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.odsp.d Stub check: Package com.microsoft.office.onenote has version 16.0.12228.20292 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.onenote installed: true 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.onenote a stub app: false 
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA com.microsoft.skydrive.common.LGUtils Build model matches LG: false 
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: false 
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 13:37:01 GMT+08:00 2020 V AutoUploadService Upload Service Created. 
+Wed Jan 01 13:37:01 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = null 
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA AutoUploadService Start command with action: null 
+Wed Jan 01 13:37:01 GMT+08:00 2020 V com.microsoft.authorization.ad hasFeatures() FEATURE_QUOTA 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Drive by Resource Id (:0) 
+Wed Jan 01 13:37:01 GMT+08:00 2020 E i QuotaRefreshNetworkTask failed java.net.UnknownHostException: Unable to resolve host "skyapi.live.net": No address associated with hostname
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+	at okhttp3.Dns$1.lookup(SourceFile:40)
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(SourceFile:185)
+	at okhttp3.internal.connection.RouteSelector.nextProxy(SourceFile:149)
+	at okhttp3.internal.connection.RouteSelector.next(SourceFile:84)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(SourceFile:214)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(SourceFile:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(SourceFile:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(SourceFile:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(SourceFile:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at com.microsoft.authorization.live.i$b.intercept(SourceFile:186)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(SourceFile:254)
+	at okhttp3.RealCall.execute(SourceFile:92)
+	at e.h.a(SourceFile:180)
+	at e.g$a.a(SourceFile:91)
+	at com.microsoft.authorization.live.i.a(SourceFile:64)
+	at com.microsoft.authorization.ad.a(SourceFile:625)
+	at com.microsoft.authorization.w$2.a(SourceFile:108)
+	at com.microsoft.authorization.w$a$2.run(SourceFile:193)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+	at libcore.io.Posix.android_getaddrinfo(Native Method)
+	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+	... 34 more
+
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.a Starting update service 
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.UpdateCloudAccountsJob Updating cloud accounts list 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Drive by Resource Id (:0) 
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.UpdateCloudAccountsJob Finished updating cloud accounts list, count = 0 
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.a Saving ServiceConnections list to preferences: 0 
+Wed Jan 01 13:37:01 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.a Updated cloud account list: 0 
+Wed Jan 01 13:37:01 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Command by Drive Id (:0) 
+Wed Jan 01 13:37:02 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Providing refresh task for  "SharedBy"  isRoot:  false (:0) 
+Wed Jan 01 13:37:02 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Marked:  1  records dirty. (:0) 
+Wed Jan 01 13:37:02 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Issuing page request for GetItems.  resourceId:  "SharedBy"  offset:  0 (:0) 
+Wed Jan 01 13:37:02 GMT+08:00 2020 V com.microsoft.authorization.ad Getting token for: service::ssl.live.com::MBI_SSL 
+Wed Jan 01 13:37:02 GMT+08:00 2020 V com.microsoft.authorization.ad Cached token invalid, attempt to refresh token 
+Wed Jan 01 13:37:02 GMT+08:00 2020 E com.microsoft.authorization.ad refresh token IOException java.net.UnknownHostException: Unable to resolve host "login.live.com": No address associated with hostname
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+	at okhttp3.Dns$1.lookup(SourceFile:40)
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(SourceFile:185)
+	at okhttp3.internal.connection.RouteSelector.nextProxy(SourceFile:149)
+	at okhttp3.internal.connection.RouteSelector.next(SourceFile:84)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(SourceFile:214)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(SourceFile:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(SourceFile:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(SourceFile:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(SourceFile:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(SourceFile:254)
+	at okhttp3.RealCall.execute(SourceFile:92)
+	at e.h.a(SourceFile:180)
+	at e.g$a.a(SourceFile:91)
+	at com.microsoft.authorization.live.d.a(SourceFile:73)
+	at com.microsoft.authorization.live.d.a(SourceFile:136)
+	at com.microsoft.authorization.ad.b(SourceFile:709)
+	at com.microsoft.authorization.ad.a(SourceFile:682)
+	at com.microsoft.authorization.ad.b(SourceFile:294)
+	at com.microsoft.authorization.ad.a(SourceFile:256)
+	at com.microsoft.authorization.w$3.a(SourceFile:145)
+	at com.microsoft.authorization.w$a$2.run(SourceFile:193)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+	at libcore.io.Posix.android_getaddrinfo(Native Method)
+	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+	... 35 more
+
+Wed Jan 01 13:37:02 GMT+08:00 2020 V com.microsoft.authorization.ad TokenRefresh has occurred, but not sending an event because we've sent one recently 
+Wed Jan 01 13:37:02 GMT+08:00 2020 V com.microsoft.authorization.ad Refresh token invalid 
+Wed Jan 01 13:37:02 GMT+08:00 2020 V com.microsoft.authorization.ad Don't force re-SignIn, account removed: false, network error occurred: true 
+Wed Jan 01 13:37:02 GMT+08:00 2020 E com.microsoft.onedrivecore.AuthenticatorInterface SignInManger.getToken failed android.accounts.AuthenticatorException: Unable to resolve host "login.live.com": No address associated with hostname
+	at com.microsoft.authorization.w$a$a.a(SourceFile:280)
+	at com.microsoft.authorization.v.a(SourceFile:64)
+	at com.microsoft.authorization.w$a$2.run(SourceFile:194)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+Wed Jan 01 13:37:02 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Got error during getting info for  "SharedBy" , error: "{errorCode: 49, httpStatusCode: 0, message: Get an empty/invalid token, type: OneDriveException}" (:0) 
+Wed Jan 01 13:37:02 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 13:37:02 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 13:37:02 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface removeAllDeletedItems removed 0 items (:0) 
+Wed Jan 01 13:37:02 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Providing refresh task for  "2DB7FDB7D609F016"  isRoot:  false (:0) 
+Wed Jan 01 13:37:02 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Marked:  0  records dirty. (:0) 
+Wed Jan 01 13:37:02 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Issuing page request for GetItems.  resourceId:  "2DB7FDB7D609F016"  offset:  0 (:0) 
+Wed Jan 01 13:37:02 GMT+08:00 2020 V com.microsoft.authorization.ad Getting token for: service::ssl.live.com::MBI_SSL 
+Wed Jan 01 13:37:02 GMT+08:00 2020 V com.microsoft.authorization.ad Cached token invalid, attempt to refresh token 
+Wed Jan 01 13:37:02 GMT+08:00 2020 E com.microsoft.authorization.ad refresh token IOException java.net.UnknownHostException: Unable to resolve host "login.live.com": No address associated with hostname
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:427)
+	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+	at okhttp3.Dns$1.lookup(SourceFile:40)
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(SourceFile:185)
+	at okhttp3.internal.connection.RouteSelector.nextProxy(SourceFile:149)
+	at okhttp3.internal.connection.RouteSelector.next(SourceFile:84)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(SourceFile:214)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(SourceFile:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(SourceFile:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(SourceFile:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(SourceFile:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(SourceFile:254)
+	at okhttp3.RealCall.execute(SourceFile:92)
+	at e.h.a(SourceFile:180)
+	at e.g$a.a(SourceFile:91)
+	at com.microsoft.authorization.live.d.a(SourceFile:73)
+	at com.microsoft.authorization.live.d.a(SourceFile:136)
+	at com.microsoft.authorization.ad.b(SourceFile:709)
+	at com.microsoft.authorization.ad.a(SourceFile:682)
+	at com.microsoft.authorization.ad.b(SourceFile:294)
+	at com.microsoft.authorization.ad.a(SourceFile:256)
+	at com.microsoft.authorization.w$3.a(SourceFile:145)
+	at com.microsoft.authorization.w$a$2.run(SourceFile:193)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+Wed Jan 01 13:37:02 GMT+08:00 2020 V com.microsoft.authorization.ad TokenRefresh has occurred, but not sending an event because we've sent one recently 
+Wed Jan 01 13:37:02 GMT+08:00 2020 V com.microsoft.authorization.ad Refresh token invalid 
+Wed Jan 01 13:37:02 GMT+08:00 2020 V com.microsoft.authorization.ad Don't force re-SignIn, account removed: false, network error occurred: true 
+Wed Jan 01 13:37:02 GMT+08:00 2020 E com.microsoft.onedrivecore.AuthenticatorInterface SignInManger.getToken failed android.accounts.AuthenticatorException: Unable to resolve host "login.live.com": No address associated with hostname
+	at com.microsoft.authorization.w$a$a.a(SourceFile:280)
+	at com.microsoft.authorization.v.a(SourceFile:64)
+	at com.microsoft.authorization.w$a$2.run(SourceFile:194)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+Wed Jan 01 13:37:02 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Got error during getting info for  "2DB7FDB7D609F016" , error: "{errorCode: 49, httpStatusCode: 0, message: Get an empty/invalid token, type: OneDriveException}" (:0) 
+Wed Jan 01 13:39:41 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 13:39:41 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 13:39:59 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Merge wal to database. before merge: 148352 after merge: 0 first db action on: 1577856925 now: 1577857199 time to merge: 18 (:0) 
+Wed Jan 01 14:37:01 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 14:37:01 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 14:37:01 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 15:41:16 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 15:41:16 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 15:41:16 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 16:42:44 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 16:42:44 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 16:42:44 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 17:53:39 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 18:06:04 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Application is not started (:0) 
+Wed Jan 01 18:06:04 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Starting application (:0) 
+Wed Jan 01 18:06:04 GMT+08:00 2020 W com.microsoft.onedrivecore.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Wed Jan 01 18:06:04 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Opening database  "/data/data/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Wed Jan 01 18:06:04 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Current DB version is  75 (:0) 
+Wed Jan 01 18:06:04 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Log the database file info (:0) 
+Wed Jan 01 18:06:04 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface File: "/data/data/com.microsoft.skydrive/files/QTMetadata.db" size: 598016 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Jan 01 18:06:04 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface File: "/data/data/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Jan 01 18:06:04 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface File: "/data/data/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 16512 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Jan 01 18:06:04 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Wed Jan 01 18:06:04 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Wed Jan 01 18:06:04 GMT+08:00 2020 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Wed Jan 01 18:06:04 GMT+08:00 2020 I com.microsoft.authorization.a.d Build.VERSION.SDK_INT 22 
+Wed Jan 01 18:06:04 GMT+08:00 2020 DATA com.microsoft.odsp.k.c Build model matches: false 
+Wed Jan 01 18:06:04 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 18:06:04 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.a Read ServiceConnections list from preferences: 0 
+Wed Jan 01 18:06:04 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.a Read hidden cloud account IDs list from preferences: 0 
+Wed Jan 01 18:06:04 GMT+08:00 2020 V com.microsoft.tokenshare.m_v1.4.8 Can't get configuration from networkjava.net.UnknownHostException: Unable to resolve host "oneclient.sfx.ms": No address associated with hostname 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: false 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 18:06:05 GMT+08:00 2020 I com.microsoft.skydrive.t.m Found 0 package(s) supporting SSO 
+Wed Jan 01 18:06:05 GMT+08:00 2020 I com.microsoft.skydrive.t.m Packages supporting SSO: [] 
+Wed Jan 01 18:06:05 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.outlook installed: false 
+Wed Jan 01 18:06:05 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.outlook a stub app: false 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 18:06:05 GMT+08:00 2020 I com.microsoft.skydrive.t.m Found 0 package(s) supporting SSO 
+Wed Jan 01 18:06:05 GMT+08:00 2020 I com.microsoft.skydrive.t.m Packages supporting SSO: [] 
+Wed Jan 01 18:06:05 GMT+08:00 2020 I com.microsoft.odsp.d Stub check: Package com.microsoft.office.word has version 16.1.0.1 
+Wed Jan 01 18:06:05 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.word installed: true 
+Wed Jan 01 18:06:05 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.word a stub app: true 
+Wed Jan 01 18:06:05 GMT+08:00 2020 I com.microsoft.odsp.d Stub check: Package com.microsoft.office.onenote has version 16.0.12228.20292 
+Wed Jan 01 18:06:05 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.onenote installed: true 
+Wed Jan 01 18:06:05 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.onenote a stub app: false 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.skydrive.common.LGUtils Build model matches LG: false 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: false 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 18:06:05 GMT+08:00 2020 V AutoUploadService Upload Service Created. 
+Wed Jan 01 18:06:05 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = null 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA AutoUploadService Start command with action: null 
+Wed Jan 01 18:06:05 GMT+08:00 2020 V com.microsoft.authorization.ad hasFeatures() FEATURE_QUOTA 
+Wed Jan 01 18:06:05 GMT+08:00 2020 E i QuotaRefreshNetworkTask failed java.net.UnknownHostException: Unable to resolve host "skyapi.live.net": No address associated with hostname
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+	at okhttp3.Dns$1.lookup(SourceFile:40)
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(SourceFile:185)
+	at okhttp3.internal.connection.RouteSelector.nextProxy(SourceFile:149)
+	at okhttp3.internal.connection.RouteSelector.next(SourceFile:84)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(SourceFile:214)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(SourceFile:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(SourceFile:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(SourceFile:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(SourceFile:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at com.microsoft.authorization.live.i$b.intercept(SourceFile:186)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(SourceFile:254)
+	at okhttp3.RealCall.execute(SourceFile:92)
+	at e.h.a(SourceFile:180)
+	at e.g$a.a(SourceFile:91)
+	at com.microsoft.authorization.live.i.a(SourceFile:64)
+	at com.microsoft.authorization.ad.a(SourceFile:625)
+	at com.microsoft.authorization.w$2.a(SourceFile:108)
+	at com.microsoft.authorization.w$a$2.run(SourceFile:193)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+	at libcore.io.Posix.android_getaddrinfo(Native Method)
+	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+	... 34 more
+
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.skydrive.share.task.e Skipping contacts refresh 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.googleplay.GooglePlayBillingClient Binding to billing service 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.Office365CheckTask Checking Google Play service availability 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.Office365CheckTask Checking in-app purchase availability 
+Wed Jan 01 18:06:05 GMT+08:00 2020 V com.microsoft.authorization.ad Getting token for: service::rpsticket.partnerservices.getmicrosoftkey.com::MBI_SSL 
+Wed Jan 01 18:06:05 GMT+08:00 2020 V com.microsoft.authorization.ad Cached token invalid, attempt to refresh token 
+Wed Jan 01 18:06:05 GMT+08:00 2020 E com.microsoft.authorization.ad refresh token IOException java.net.UnknownHostException: Unable to resolve host "login.live.com": No address associated with hostname
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+	at okhttp3.Dns$1.lookup(SourceFile:40)
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(SourceFile:185)
+	at okhttp3.internal.connection.RouteSelector.nextProxy(SourceFile:149)
+	at okhttp3.internal.connection.RouteSelector.next(SourceFile:84)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(SourceFile:214)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(SourceFile:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(SourceFile:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(SourceFile:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(SourceFile:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(SourceFile:254)
+	at okhttp3.RealCall.execute(SourceFile:92)
+	at e.h.a(SourceFile:180)
+	at e.g$a.a(SourceFile:91)
+	at com.microsoft.authorization.live.d.a(SourceFile:73)
+	at com.microsoft.authorization.live.d.a(SourceFile:136)
+	at com.microsoft.authorization.ad.b(SourceFile:709)
+	at com.microsoft.authorization.ad.a(SourceFile:682)
+	at com.microsoft.authorization.ad.b(SourceFile:294)
+	at com.microsoft.authorization.ad.a(SourceFile:256)
+	at com.microsoft.authorization.w$3.a(SourceFile:145)
+	at com.microsoft.authorization.w$a$2.run(SourceFile:193)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+	at libcore.io.Posix.android_getaddrinfo(Native Method)
+	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+	... 35 more
+
+Wed Jan 01 18:06:05 GMT+08:00 2020 V com.microsoft.authorization.ad Sending telemetry event for TokenRefresh 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: false 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Wed Jan 01 18:06:05 GMT+08:00 2020 V com.microsoft.authorization.ad Refresh token invalid 
+Wed Jan 01 18:06:05 GMT+08:00 2020 V com.microsoft.authorization.ad Don't force re-SignIn, account removed: false, network error occurred: true 
+Wed Jan 01 18:06:05 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.Office365CheckTask Fetching purchase orders list 
+Wed Jan 01 18:06:09 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.googleplay.GooglePlayBillingClient Connected to billing service 
+Wed Jan 01 18:06:10 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.googleplay.GetPurchaseOrdersTask Sending request 
+Wed Jan 01 18:06:10 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.googleplay.GetPurchaseOrdersTask PACKAGE_NAME = com.microsoft.skydrive, PRODUCT_TYPE = SUBSCRIPTION 
+Wed Jan 01 18:06:11 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.googleplay.GetPurchaseOrdersTask Processing response 
+Wed Jan 01 18:06:11 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.googleplay.GetPurchaseOrdersTask RESPONSE_CODE = OK 
+Wed Jan 01 18:06:11 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.googleplay.GetPurchaseOrdersTask INAPP_PURCHASE_DATA_LIST size = 0 
+Wed Jan 01 18:06:11 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.Office365CheckTask Finished fetching purchase order list 
+Wed Jan 01 18:06:11 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.Office365CheckTask Fetching available plans list 
+Wed Jan 01 18:06:12 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.googleplay.GetProductInfosTask Sending request 
+Wed Jan 01 18:06:12 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.googleplay.GetProductInfosTask PACKAGE_NAME = com.microsoft.skydrive, PRODUCT_TYPE = SUBSCRIPTION, ITEM_ID_LIST = [com.microsoft.office.personal.monthly.nov17, com.microsoft.office.home.monthly.nov17, com.microsoft.office.solo.monthly3, com.microsoft.office.personal, com.microsoft.office.home, com.microsoft.office.solo] 
+Wed Jan 01 18:06:24 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.googleplay.GetProductInfosTask Processing response 
+Wed Jan 01 18:06:24 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.googleplay.GetProductInfosTask RESPONSE_CODE = SERVICE_UNAVAILABLE 
+Wed Jan 01 18:06:24 GMT+08:00 2020 E com.microsoft.skydrive.iap.googleplay.GetProductInfosTask Request failed com.microsoft.skydrive.iap.googleplay.serialization.GooglePlayRequestFailedException: SERVICE_UNAVAILABLE: Response code was not OK
+	at com.microsoft.skydrive.iap.googleplay.GooglePlayBillingRequestTask.checkResponseCode(SourceFile:58)
+	at com.microsoft.skydrive.iap.googleplay.GooglePlayBillingRequestTask.onExecute(SourceFile:92)
+	at com.microsoft.odsp.task.TaskBase.run(SourceFile:84)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+Wed Jan 01 18:06:24 GMT+08:00 2020 E com.microsoft.skydrive.iap.Office365CheckTask Failed to get product details list com.microsoft.skydrive.iap.googleplay.serialization.GooglePlayRequestFailedException: SERVICE_UNAVAILABLE: Response code was not OK
+	at com.microsoft.skydrive.iap.googleplay.GooglePlayBillingRequestTask.checkResponseCode(SourceFile:58)
+	at com.microsoft.skydrive.iap.googleplay.GooglePlayBillingRequestTask.onExecute(SourceFile:92)
+	at com.microsoft.odsp.task.TaskBase.run(SourceFile:84)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+Wed Jan 01 18:06:24 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.Office365CheckTask Error encountered, java.util.concurrent.TimeoutException: Check product info timed out 
+Wed Jan 01 18:06:24 GMT+08:00 2020 E IapRecoveryManager Failed to run check tasks java.util.concurrent.TimeoutException: Check product info timed out
+	at com.microsoft.skydrive.iap.Office365CheckTask.checkProductInfo(SourceFile:252)
+	at com.microsoft.skydrive.iap.Office365CheckTask.onExecute(SourceFile:135)
+	at com.microsoft.odsp.task.TaskBase.run(SourceFile:84)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+Wed Jan 01 18:06:24 GMT+08:00 2020 DATA com.microsoft.skydrive.iap.googleplay.GooglePlayBillingClient Unbinding from billing service 
+Wed Jan 01 18:06:44 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Merge wal to database. before merge: 16512 after merge: 0 first db action on: 1577873164 now: 1577873179 time to merge: 25076 (:0) 
+Wed Jan 01 18:08:21 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter constructed. 
+Wed Jan 01 18:08:22 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 18:08:22 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 18:08:22 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface removeAllDeletedItems removed 0 items (:0) 
+Wed Jan 01 18:08:22 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera backup does not start syncing since user chooses wifi only. 
+Wed Jan 01 18:08:23 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera backup does not start syncing since user chooses wifi only. 
+Wed Jan 01 18:08:23 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera backup does not start syncing since user chooses wifi only. 
+Wed Jan 01 18:08:27 GMT+08:00 2020 V a Google Api Availability return code: 0 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "JSONApiBaseUrl"  with value  "{SkyApiURLValue}/API/2/" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "AllowExpandedEditCommands"  with value  "True" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "RegisterNotificationSubscriptionUrl"  with value  "{NotificationSubscriptionBaseUrl}/RegisterNotificationSubscription" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "DeleteNotificationSubscriptionUrl"  with value  "{NotificationSubscriptionBaseUrl}/DeleteNotificationSubscription" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "NotificationSubscriptionSecondsToExpiry"  with value  "604800" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "NotificationSubscriptionSecondsToPreRenewal"  with value  "302400" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "FollowAFileScenarioName"  with value  "FollowAFile" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "FollowAFileUrl"  with value  "activity" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "FollowAFileSecondsToExpiry"  with value  "7776000" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "UnfollowAFileSecondsToExpiry"  with value  "34128000" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "CreatePersonalVault"  with value  "true" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "RevisedVaultQuota"  with value  "false" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "UserResolutionRamp"  with value  "1" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "UserFirstRunRamp"  with value  "1" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "FullSyncMaxItemCount"  with value  "1000" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "IncrementalSyncMaxItemCount"  with value  "50" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "PerFileSizeLimitBytes"  with value  "2147483647" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "FileNameLimit"  with value  "255" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Polling interval set to  "86400" (:0) 
+Wed Jan 01 18:08:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Next refresh at  QDateTime(2020-01-01 00:56:09.794 PHT Qt::TimeSpec(LocalTime)) (:0) 
+Wed Jan 01 18:08:28 GMT+08:00 2020 V com.microsoft.authorization.ad Getting token for: service::ssl.live.com::MBI_SSL 
+Wed Jan 01 18:08:28 GMT+08:00 2020 V com.microsoft.authorization.ad Cached token invalid, attempt to refresh token 
+Wed Jan 01 18:08:38 GMT+08:00 2020 V ManualUploadService Upload Service Created. 
+Wed Jan 01 18:08:38 GMT+08:00 2020 V ManualUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.ManualUploadService } 
+Wed Jan 01 18:08:38 GMT+08:00 2020 V ModalUploadService Upload Service Created. 
+Wed Jan 01 18:08:38 GMT+08:00 2020 V ModalUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.ModalUploadService } 
+Wed Jan 01 18:08:38 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Wed Jan 01 18:08:38 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Wed Jan 01 18:08:38 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Wed Jan 01 18:08:38 GMT+08:00 2020 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Wed Jan 01 18:08:38 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: WaitForWifi Paused: true 
+Wed Jan 01 18:08:38 GMT+08:00 2020 V AsyncMoveService Upload Service Created. 
+Wed Jan 01 18:08:38 GMT+08:00 2020 V AsyncMoveService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.AsyncMoveService } 
+Wed Jan 01 18:08:43 GMT+08:00 2020 E a Failed subscribing for gcmNotificationSubscriptionIdKey 
+Wed Jan 01 18:08:59 GMT+08:00 2020 E com.microsoft.authorization.ad refresh token IOException java.net.SocketTimeoutException: SSL handshake timed out
+	at com.android.org.conscrypt.NativeCrypto.SSL_do_handshake(Native Method)
+	at com.android.org.conscrypt.OpenSSLSocketImpl.startHandshake(OpenSSLSocketImpl.java:318)
+	at okhttp3.internal.connection.RealConnection.connectTls(SourceFile:319)
+	at okhttp3.internal.connection.RealConnection.establishProtocol(SourceFile:283)
+	at okhttp3.internal.connection.RealConnection.connect(SourceFile:168)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(SourceFile:257)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(SourceFile:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(SourceFile:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(SourceFile:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(SourceFile:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(SourceFile:254)
+	at okhttp3.RealCall.execute(SourceFile:92)
+	at e.h.a(SourceFile:180)
+	at e.g$a.a(SourceFile:91)
+	at com.microsoft.authorization.live.d.a(SourceFile:73)
+	at com.microsoft.authorization.live.d.a(SourceFile:136)
+	at com.microsoft.authorization.ad.b(SourceFile:709)
+	at com.microsoft.authorization.ad.a(SourceFile:682)
+	at com.microsoft.authorization.ad.b(SourceFile:294)
+	at com.microsoft.authorization.ad.a(SourceFile:256)
+	at com.microsoft.authorization.w$3.a(SourceFile:145)
+	at com.microsoft.authorization.w$a$2.run(SourceFile:193)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+Wed Jan 01 18:08:59 GMT+08:00 2020 V com.microsoft.authorization.ad TokenRefresh has occurred, but not sending an event because we've sent one recently 
+Wed Jan 01 18:08:59 GMT+08:00 2020 V com.microsoft.authorization.ad Refresh token invalid 
+Wed Jan 01 18:08:59 GMT+08:00 2020 V com.microsoft.authorization.ad Don't force re-SignIn, account removed: false, network error occurred: true 
+Wed Jan 01 18:08:59 GMT+08:00 2020 E com.microsoft.onedrivecore.AuthenticatorInterface SignInManger.getToken failed android.accounts.AuthenticatorException: SSL handshake timed out
+	at com.microsoft.authorization.w$a$a.a(SourceFile:280)
+	at com.microsoft.authorization.v.a(SourceFile:64)
+	at com.microsoft.authorization.w$a$2.run(SourceFile:194)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+Wed Jan 01 20:13:39 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 20:13:39 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 20:13:39 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Drive by Drive Id (:0) 
+Wed Jan 01 20:13:39 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 21:14:35 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 21:14:35 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 21:14:35 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 22:17:10 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 22:17:10 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 22:17:10 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Wed Jan 01 23:17:14 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Wed Jan 01 23:17:14 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Wed Jan 01 23:17:14 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Thu Jan 02 00:17:20 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Thu Jan 02 00:17:20 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Thu Jan 02 00:17:20 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Thu Jan 02 00:49:54 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Thu Jan 02 00:49:54 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Thu Jan 02 00:52:53 GMT+08:00 2020 V ManualUploadService Upload Service Created. 
+Thu Jan 02 01:23:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Application is not started (:0) 
+Thu Jan 02 01:23:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Starting application (:0) 
+Thu Jan 02 01:23:25 GMT+08:00 2020 W com.microsoft.onedrivecore.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Jan 02 01:23:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Opening database  "/data/data/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Thu Jan 02 01:23:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Current DB version is  75 (:0) 
+Thu Jan 02 01:23:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Log the database file info (:0) 
+Thu Jan 02 01:23:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface File: "/data/data/com.microsoft.skydrive/files/QTMetadata.db" size: 598016 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Thu Jan 02 01:23:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface File: "/data/data/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Thu Jan 02 01:23:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface File: "/data/data/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 61832 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Thu Jan 02 01:23:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Thu Jan 02 01:23:25 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Thu Jan 02 01:23:25 GMT+08:00 2020 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Jan 02 01:23:26 GMT+08:00 2020 I com.microsoft.authorization.a.d Build.VERSION.SDK_INT 22 
+Thu Jan 02 01:23:26 GMT+08:00 2020 DATA com.microsoft.odsp.k.c Build model matches: false 
+Thu Jan 02 01:23:26 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Thu Jan 02 01:23:26 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.a Read ServiceConnections list from preferences: 0 
+Thu Jan 02 01:23:26 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.a Read hidden cloud account IDs list from preferences: 0 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: false 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V com.microsoft.tokenshare.m_v1.4.8 Can't get configuration from networkjava.io.FileNotFoundException: https://oneclient.sfx.ms/mobile/ts_configuration.jwt 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.skydrive.t.m Found 0 package(s) supporting SSO 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.skydrive.t.m Packages supporting SSO: [] 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.outlook installed: false 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.outlook a stub app: false 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.skydrive.t.m Found 0 package(s) supporting SSO 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.skydrive.t.m Packages supporting SSO: [] 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.odsp.d Stub check: Package com.microsoft.office.word has version 16.1.0.1 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.word installed: true 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.word a stub app: true 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.odsp.d Stub check: Package com.microsoft.office.onenote has version 16.0.12228.20292 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.onenote installed: true 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.onenote a stub app: false 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA com.microsoft.skydrive.common.LGUtils Build model matches LG: false 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: false 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V AutoUploadService Upload Service Created. 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = null 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA AutoUploadService Start command with action: null 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V com.microsoft.authorization.ad hasFeatures() FEATURE_QUOTA 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA com.microsoft.skydrive.share.task.e Skipping contacts refresh 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V a Google Api Availability return code: 0 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V ManualUploadService Upload Service Created. 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V ManualUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.ManualUploadService } 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Polling interval set to  "43200" (:0) 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V ModalUploadService Upload Service Created. 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V ModalUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.ModalUploadService } 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Next refresh at  QDateTime(2019-12-31 12:56:09.794 PHT Qt::TimeSpec(LocalTime)) (:0) 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V AsyncMoveService Upload Service Created. 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 01:23:27 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V AsyncMoveService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.AsyncMoveService } 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Drive by Drive Id (:0) 
+Thu Jan 02 01:23:27 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Thu Jan 02 01:23:27 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface removeAllDeletedItems removed 0 items (:0) 
+Thu Jan 02 01:23:28 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 01:23:28 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 01:23:28 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 01:23:29 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Drive by Resource Id (:0) 
+Thu Jan 02 01:23:29 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Command by Drive Id (:0) 
+Thu Jan 02 01:23:29 GMT+08:00 2020 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Thu Jan 02 01:23:29 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: QuotaExceeded Paused: true 
+Thu Jan 02 01:53:33 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Application is not started (:0) 
+Thu Jan 02 01:53:33 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Starting application (:0) 
+Thu Jan 02 01:53:33 GMT+08:00 2020 W com.microsoft.onedrivecore.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Jan 02 01:53:33 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Opening database  "/data/data/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Thu Jan 02 01:53:33 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Current DB version is  75 (:0) 
+Thu Jan 02 01:53:33 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Log the database file info (:0) 
+Thu Jan 02 01:53:33 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface File: "/data/data/com.microsoft.skydrive/files/QTMetadata.db" size: 598016 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Thu Jan 02 01:53:33 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface File: "/data/data/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Thu Jan 02 01:53:33 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface File: "/data/data/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Thu Jan 02 01:53:33 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Thu Jan 02 01:53:33 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Thu Jan 02 01:53:33 GMT+08:00 2020 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Jan 02 01:53:34 GMT+08:00 2020 I com.microsoft.authorization.a.d Build.VERSION.SDK_INT 22 
+Thu Jan 02 01:53:34 GMT+08:00 2020 DATA com.microsoft.odsp.k.c Build model matches: false 
+Thu Jan 02 01:53:34 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Thu Jan 02 01:53:34 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.a Read ServiceConnections list from preferences: 0 
+Thu Jan 02 01:53:34 GMT+08:00 2020 DATA com.microsoft.authorization.cloudaccounts.a Read hidden cloud account IDs list from preferences: 0 
+Thu Jan 02 01:53:35 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: false 
+Thu Jan 02 01:53:35 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Thu Jan 02 01:53:35 GMT+08:00 2020 V com.microsoft.tokenshare.m_v1.4.8 Can't get configuration from networkjava.io.FileNotFoundException: https://oneclient.sfx.ms/mobile/ts_configuration.jwt 
+Thu Jan 02 01:53:35 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Thu Jan 02 01:53:35 GMT+08:00 2020 I com.microsoft.skydrive.t.m Found 0 package(s) supporting SSO 
+Thu Jan 02 01:53:35 GMT+08:00 2020 I com.microsoft.skydrive.t.m Packages supporting SSO: [] 
+Thu Jan 02 01:53:35 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.outlook installed: false 
+Thu Jan 02 01:53:35 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.outlook a stub app: false 
+Thu Jan 02 01:53:35 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Thu Jan 02 01:53:35 GMT+08:00 2020 I com.microsoft.skydrive.t.m Found 0 package(s) supporting SSO 
+Thu Jan 02 01:53:35 GMT+08:00 2020 I com.microsoft.skydrive.t.m Packages supporting SSO: [] 
+Thu Jan 02 01:53:35 GMT+08:00 2020 I com.microsoft.odsp.d Stub check: Package com.microsoft.office.word has version 16.1.0.1 
+Thu Jan 02 01:53:35 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.word installed: true 
+Thu Jan 02 01:53:35 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.word a stub app: true 
+Thu Jan 02 01:53:35 GMT+08:00 2020 I com.microsoft.odsp.d Stub check: Package com.microsoft.office.onenote has version 16.0.12228.20292 
+Thu Jan 02 01:53:35 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.onenote installed: true 
+Thu Jan 02 01:53:35 GMT+08:00 2020 I com.microsoft.skydrive.t.m Is package com.microsoft.office.onenote a stub app: false 
+Thu Jan 02 01:53:35 GMT+08:00 2020 DATA com.microsoft.skydrive.common.LGUtils Build model matches LG: false 
+Thu Jan 02 01:53:35 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: false 
+Thu Jan 02 01:53:35 GMT+08:00 2020 DATA com.microsoft.odsp.d Pre: true 
+Thu Jan 02 01:53:35 GMT+08:00 2020 V AutoUploadService Upload Service Created. 
+Thu Jan 02 01:53:35 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = null 
+Thu Jan 02 01:53:35 GMT+08:00 2020 DATA AutoUploadService Start command with action: null 
+Thu Jan 02 01:53:35 GMT+08:00 2020 V com.microsoft.authorization.ad hasFeatures() FEATURE_QUOTA 
+Thu Jan 02 01:53:35 GMT+08:00 2020 DATA com.microsoft.skydrive.share.task.e Skipping contacts refresh 
+Thu Jan 02 01:53:35 GMT+08:00 2020 V a Google Api Availability return code: 0 
+Thu Jan 02 01:53:36 GMT+08:00 2020 V ManualUploadService Upload Service Created. 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "JSONApiBaseUrl"  with value  "{SkyApiURLValue}/API/2/" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "AllowExpandedEditCommands"  with value  "True" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "RegisterNotificationSubscriptionUrl"  with value  "{NotificationSubscriptionBaseUrl}/RegisterNotificationSubscription" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "DeleteNotificationSubscriptionUrl"  with value  "{NotificationSubscriptionBaseUrl}/DeleteNotificationSubscription" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "NotificationSubscriptionSecondsToExpiry"  with value  "604800" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "NotificationSubscriptionSecondsToPreRenewal"  with value  "302400" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "FollowAFileScenarioName"  with value  "FollowAFile" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "FollowAFileUrl"  with value  "activity" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "FollowAFileSecondsToExpiry"  with value  "7776000" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "UnfollowAFileSecondsToExpiry"  with value  "34128000" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "CreatePersonalVault"  with value  "true" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "RevisedVaultQuota"  with value  "false" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "UserResolutionRamp"  with value  "1" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "UserFirstRunRamp"  with value  "1" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "FullSyncMaxItemCount"  with value  "1000" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "IncrementalSyncMaxItemCount"  with value  "50" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "PerFileSizeLimitBytes"  with value  "2147483647" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Inserting rule  "FileNameLimit"  with value  "255" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 V ManualUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.ManualUploadService } 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Polling interval set to  "86400" (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 V ModalUploadService Upload Service Created. 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Next refresh at  QDateTime(2020-01-03 01:23:29.647 PHT Qt::TimeSpec(LocalTime)) (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 V ModalUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.ModalUploadService } 
+Thu Jan 02 01:53:36 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 01:53:36 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 01:53:36 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 01:53:36 GMT+08:00 2020 V AsyncMoveService Upload Service Created. 
+Thu Jan 02 01:53:36 GMT+08:00 2020 V AsyncMoveService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.RESUME cmp=com.microsoft.skydrive/.upload.AsyncMoveService } 
+Thu Jan 02 01:53:36 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 01:53:36 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Thu Jan 02 01:53:36 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface removeAllDeletedItems removed 0 items (:0) 
+Thu Jan 02 01:53:37 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 01:53:37 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 01:53:37 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Drive by Resource Id (:0) 
+Thu Jan 02 01:53:37 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Drive by Resource Id (:0) 
+Thu Jan 02 01:53:37 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Command by Drive Id (:0) 
+Thu Jan 02 01:53:37 GMT+08:00 2020 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Thu Jan 02 01:53:37 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: QuotaExceeded Paused: true 
+Thu Jan 02 01:53:38 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.SCHEDULE_ITEMS cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 01:53:38 GMT+08:00 2020 V AutoUploadService failed to load item 200 with error code: QuotaExceeded 
+Thu Jan 02 01:53:48 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Merge wal to database. before merge: 16512 after merge: 0 first db action on: 1577901213 now: 1577901228 time to merge: 9 (:0) 
+Thu Jan 02 02:13:51 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter constructed. 
+Thu Jan 02 02:13:51 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Thu Jan 02 02:13:51 GMT+08:00 2020 I CameraRollBackupProcessor run: trigger reason - SyncAdapterNetworkTickle 
+Thu Jan 02 02:13:51 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 02:13:51 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Thu Jan 02 02:13:51 GMT+08:00 2020 DATA AutoUploadService startSync invoked. 
+Thu Jan 02 02:13:51 GMT+08:00 2020 DATA CameraRollBackupProcessor Saved buckets found: 465 
+Thu Jan 02 02:13:52 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Creating refresh factory (:0) 
+Thu Jan 02 02:13:52 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Page size : "1000" (:0) 
+Thu Jan 02 02:13:52 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface The request sync root points to  1 "root" (:0) 
+Thu Jan 02 02:13:52 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 02:13:52 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Thu Jan 02 02:13:52 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Thu Jan 02 02:13:59 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Got valid response for item  "root"  with  0 Duration:  7706 (:0) 
+Thu Jan 02 02:13:59 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface tagsItems found :  0 (:0) 
+Thu Jan 02 02:13:59 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Writing Metadata for syncRoot ResourceId "root" (:0) 
+Thu Jan 02 02:13:59 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Metadata for syncRoot ResourceId "root" is written into db in 9 ms with 0 ms yield time. The network request takes 7706 ms. There are 0 items in total and 0 items are skipped. The sync is against the parentSyncRoot: true (:0) 
+Thu Jan 02 02:13:59 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface The app status. PowerSaveMode: false ForegroundMode: false (:0) 
+Thu Jan 02 02:13:59 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Total time to sync (ms):  7768 (:0) 
+Thu Jan 02 02:13:59 GMT+08:00 2020 I com.microsoft.skydrive.i.b refreshMetadata onComplete() 
+Thu Jan 02 02:13:59 GMT+08:00 2020 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Thu Jan 02 02:14:00 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Thu Jan 02 02:14:00 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Thu Jan 02 02:14:02 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA AutoUploadService endSync invoked with error code: 0 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor startBackup finished. 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeGetAllMediaItems:      0.066 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemScanned:          362 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalSizeHashed:           0 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsHashed:          0 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeTotalHashing:          0.0 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mMetadataQueried:           0 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeMetadataQueried:       0.0 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mSyncMetadataQueried:       362 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeSyncMetadataQueried:   1.271 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForProcessing:         10.572 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForMetadataRefreshing: 7.966 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsEnqueuedForUpload: 0 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 02:14:02 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 02:14:08 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 02:14:10 GMT+08:00 2020 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Thu Jan 02 02:14:10 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: QuotaExceeded Paused: true 
+Thu Jan 02 02:14:10 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.SCHEDULE_ITEMS cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 02:14:10 GMT+08:00 2020 V AutoUploadService failed to load item 200 with error code: QuotaExceeded 
+Thu Jan 02 02:14:51 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Thu Jan 02 02:14:51 GMT+08:00 2020 I CameraRollBackupProcessor run: trigger reason - SyncAdapterNetworkTickle 
+Thu Jan 02 02:14:51 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 02:14:51 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Thu Jan 02 02:14:51 GMT+08:00 2020 DATA AutoUploadService startSync invoked. 
+Thu Jan 02 02:14:51 GMT+08:00 2020 DATA CameraRollBackupProcessor Saved buckets found: 465 
+Thu Jan 02 02:14:51 GMT+08:00 2020 I com.microsoft.skydrive.i.b refreshMetadata onComplete() 
+Thu Jan 02 02:14:51 GMT+08:00 2020 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Thu Jan 02 02:14:54 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA AutoUploadService endSync invoked with error code: 0 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor startBackup finished. 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeGetAllMediaItems:      0.031 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemScanned:          362 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalSizeHashed:           0 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsHashed:          0 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeTotalHashing:          0.0 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor mMetadataQueried:           0 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeMetadataQueried:       0.0 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor mSyncMetadataQueried:       362 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeSyncMetadataQueried:   1.169 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForProcessing:         2.354 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForMetadataRefreshing: 0.02 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsEnqueuedForUpload: 0 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 02:14:54 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 02:14:54 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 02:14:57 GMT+08:00 2020 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Thu Jan 02 02:14:57 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: QuotaExceeded Paused: true 
+Thu Jan 02 02:14:57 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.SCHEDULE_ITEMS cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 02:14:57 GMT+08:00 2020 V AutoUploadService failed to load item 200 with error code: QuotaExceeded 
+Thu Jan 02 02:15:56 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Thu Jan 02 02:15:56 GMT+08:00 2020 I CameraRollBackupProcessor run: trigger reason - SyncAdapterNetworkTickle 
+Thu Jan 02 02:15:56 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 02:15:56 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Thu Jan 02 02:15:56 GMT+08:00 2020 DATA AutoUploadService startSync invoked. 
+Thu Jan 02 02:15:57 GMT+08:00 2020 DATA CameraRollBackupProcessor Saved buckets found: 465 
+Thu Jan 02 02:15:57 GMT+08:00 2020 I com.microsoft.skydrive.i.b refreshMetadata onComplete() 
+Thu Jan 02 02:15:57 GMT+08:00 2020 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Thu Jan 02 02:15:59 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Thu Jan 02 02:15:59 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Thu Jan 02 02:15:59 GMT+08:00 2020 DATA AutoUploadService endSync invoked with error code: 0 
+Thu Jan 02 02:15:59 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 02:15:59 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 02:15:59 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 02:15:59 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 02:15:59 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 02:16:00 GMT+08:00 2020 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: QuotaExceeded Paused: true 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor startBackup finished. 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeGetAllMediaItems:      0.043 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemScanned:          362 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalSizeHashed:           0 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsHashed:          0 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeTotalHashing:          0.0 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor mMetadataQueried:           0 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeMetadataQueried:       0.0 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor mSyncMetadataQueried:       362 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeSyncMetadataQueried:   1.182 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForProcessing:         3.144 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForMetadataRefreshing: 0.015 
+Thu Jan 02 02:16:00 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsEnqueuedForUpload: 0 
+Thu Jan 02 02:16:00 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.SCHEDULE_ITEMS cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 02:16:00 GMT+08:00 2020 V AutoUploadService failed to load item 200 with error code: QuotaExceeded 
+Thu Jan 02 02:18:17 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Thu Jan 02 02:18:17 GMT+08:00 2020 I CameraRollBackupProcessor run: trigger reason - SyncAdapterNetworkTickle 
+Thu Jan 02 02:18:17 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 02:18:17 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Thu Jan 02 02:18:17 GMT+08:00 2020 DATA AutoUploadService startSync invoked. 
+Thu Jan 02 02:18:17 GMT+08:00 2020 DATA CameraRollBackupProcessor Saved buckets found: 465 
+Thu Jan 02 02:18:17 GMT+08:00 2020 I com.microsoft.skydrive.i.b refreshMetadata onComplete() 
+Thu Jan 02 02:18:17 GMT+08:00 2020 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Thu Jan 02 02:18:19 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA AutoUploadService endSync invoked with error code: 0 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor startBackup finished. 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeGetAllMediaItems:      0.031 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemScanned:          362 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalSizeHashed:           0 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsHashed:          0 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeTotalHashing:          0.0 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor mMetadataQueried:           0 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeMetadataQueried:       0.0 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor mSyncMetadataQueried:       362 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeSyncMetadataQueried:   1.198 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForProcessing:         2.578 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForMetadataRefreshing: 0.013 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsEnqueuedForUpload: 0 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 02:18:19 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 02:18:20 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 02:18:20 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 02:18:20 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 02:18:24 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 02:18:25 GMT+08:00 2020 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Thu Jan 02 02:18:25 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: QuotaExceeded Paused: true 
+Thu Jan 02 02:18:25 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.SCHEDULE_ITEMS cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 02:18:25 GMT+08:00 2020 V AutoUploadService failed to load item 200 with error code: QuotaExceeded 
+Thu Jan 02 02:22:30 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Thu Jan 02 02:22:30 GMT+08:00 2020 I CameraRollBackupProcessor run: trigger reason - SyncAdapterNetworkTickle 
+Thu Jan 02 02:22:30 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 02:22:30 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Thu Jan 02 02:22:30 GMT+08:00 2020 DATA AutoUploadService startSync invoked. 
+Thu Jan 02 02:22:30 GMT+08:00 2020 DATA CameraRollBackupProcessor Saved buckets found: 465 
+Thu Jan 02 02:22:30 GMT+08:00 2020 I com.microsoft.skydrive.i.b refreshMetadata onComplete() 
+Thu Jan 02 02:22:30 GMT+08:00 2020 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Thu Jan 02 02:22:33 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA AutoUploadService endSync invoked with error code: 0 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor startBackup finished. 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeGetAllMediaItems:      0.051 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemScanned:          362 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalSizeHashed:           0 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsHashed:          0 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeTotalHashing:          0.0 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor mMetadataQueried:           0 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeMetadataQueried:       0.0 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor mSyncMetadataQueried:       362 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeSyncMetadataQueried:   1.305 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForProcessing:         2.868 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForMetadataRefreshing: 0.075 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsEnqueuedForUpload: 0 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 02:22:33 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 02:22:34 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 02:22:34 GMT+08:00 2020 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Thu Jan 02 02:22:34 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: QuotaExceeded Paused: true 
+Thu Jan 02 02:22:34 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.SCHEDULE_ITEMS cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 02:22:34 GMT+08:00 2020 V AutoUploadService failed to load item 200 with error code: QuotaExceeded 
+Thu Jan 02 02:30:54 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Thu Jan 02 02:30:54 GMT+08:00 2020 I CameraRollBackupProcessor run: trigger reason - SyncAdapterNetworkTickle 
+Thu Jan 02 02:30:54 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 02:30:54 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Thu Jan 02 02:30:54 GMT+08:00 2020 DATA AutoUploadService startSync invoked. 
+Thu Jan 02 02:30:54 GMT+08:00 2020 DATA CameraRollBackupProcessor Saved buckets found: 465 
+Thu Jan 02 02:30:54 GMT+08:00 2020 I com.microsoft.skydrive.i.b refreshMetadata onComplete() 
+Thu Jan 02 02:30:54 GMT+08:00 2020 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Thu Jan 02 02:30:57 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA AutoUploadService endSync invoked with error code: 0 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor startBackup finished. 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeGetAllMediaItems:      0.052 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemScanned:          362 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalSizeHashed:           0 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsHashed:          0 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeTotalHashing:          0.0 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor mMetadataQueried:           0 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeMetadataQueried:       0.0 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor mSyncMetadataQueried:       362 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeSyncMetadataQueried:   1.702 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForProcessing:         3.421 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForMetadataRefreshing: 0.098 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsEnqueuedForUpload: 0 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 02:30:57 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 02:30:58 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 02:30:59 GMT+08:00 2020 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Thu Jan 02 02:30:59 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: QuotaExceeded Paused: true 
+Thu Jan 02 02:30:59 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.SCHEDULE_ITEMS cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 02:30:59 GMT+08:00 2020 V AutoUploadService failed to load item 200 with error code: QuotaExceeded 
+Thu Jan 02 03:03:57 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Thu Jan 02 03:03:57 GMT+08:00 2020 I CameraRollBackupProcessor run: trigger reason - SyncAdapterNetworkTickle 
+Thu Jan 02 03:03:57 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 03:03:57 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Thu Jan 02 03:03:57 GMT+08:00 2020 DATA AutoUploadService startSync invoked. 
+Thu Jan 02 03:03:57 GMT+08:00 2020 DATA CameraRollBackupProcessor Saved buckets found: 465 
+Thu Jan 02 03:03:58 GMT+08:00 2020 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Thu Jan 02 03:03:58 GMT+08:00 2020 I com.microsoft.skydrive.i.b refreshMetadata onComplete() 
+Thu Jan 02 03:04:02 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA AutoUploadService endSync invoked with error code: 0 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor startBackup finished. 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeGetAllMediaItems:      0.6 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemScanned:          362 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalSizeHashed:           0 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsHashed:          0 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeTotalHashing:          0.0 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mMetadataQueried:           0 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeMetadataQueried:       0.0 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mSyncMetadataQueried:       362 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeSyncMetadataQueried:   1.814 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForProcessing:         5.304 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForMetadataRefreshing: 0.31 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsEnqueuedForUpload: 0 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 03:04:02 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 03:04:23 GMT+08:00 2020 E a Network request failed:  java.net.UnknownHostException: Unable to resolve host "storage.live.com": No address associated with hostname
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+	at okhttp3.Dns$1.lookup(SourceFile:40)
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(SourceFile:185)
+	at okhttp3.internal.connection.RouteSelector.nextProxy(SourceFile:149)
+	at okhttp3.internal.connection.RouteSelector.next(SourceFile:84)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(SourceFile:214)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(SourceFile:135)
+	at okhttp3.internal.connection.StreamAllocation.newStream(SourceFile:114)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(SourceFile:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(SourceFile:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(SourceFile:254)
+	at okhttp3.RealCall.execute(SourceFile:92)
+	at com.microsoft.skydrive.communication.a.onExecute(SourceFile:129)
+	at com.microsoft.skydrive.upload.FileUploadNetworkTaskBase.onExecute(SourceFile:307)
+	at com.microsoft.odsp.task.TaskBase.run(SourceFile:84)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+	at libcore.io.Posix.android_getaddrinfo(Native Method)
+	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+	... 28 more
+
+Thu Jan 02 03:04:24 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: WaitForWifi Paused: true 
+Thu Jan 02 03:04:24 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.SCHEDULE_ITEMS cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 03:04:24 GMT+08:00 2020 V AutoUploadService failed to load item 200 with error code: WaitForWifi 
+Thu Jan 02 03:04:50 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Thu Jan 02 03:04:50 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Thu Jan 02 03:04:50 GMT+08:00 2020 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 6  streamType:  1 (:0) 
+Thu Jan 02 03:04:50 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Thu Jan 02 03:04:50 GMT+08:00 2020 I CameraRollBackupProcessor run: trigger reason - SyncAdapterNetworkTickle 
+Thu Jan 02 03:04:50 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 03:04:50 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Thu Jan 02 03:04:50 GMT+08:00 2020 DATA AutoUploadService startSync invoked. 
+Thu Jan 02 03:04:50 GMT+08:00 2020 DATA CameraRollBackupProcessor Saved buckets found: 465 
+Thu Jan 02 03:04:50 GMT+08:00 2020 I com.microsoft.skydrive.i.b refreshMetadata onComplete() 
+Thu Jan 02 03:04:50 GMT+08:00 2020 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Thu Jan 02 03:04:53 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor startBackup finished. 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeGetAllMediaItems:      0.035 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemScanned:          362 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalSizeHashed:           0 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsHashed:          0 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeTotalHashing:          0.0 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor mMetadataQueried:           0 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeMetadataQueried:       0.0 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor mSyncMetadataQueried:       362 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeSyncMetadataQueried:   1.669 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForProcessing:         3.408 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForMetadataRefreshing: 0.066 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsEnqueuedForUpload: 0 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA AutoUploadService endSync invoked with error code: 0 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 03:04:53 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 03:05:48 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 03:05:49 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Thu Jan 02 03:05:49 GMT+08:00 2020 I CameraRollBackupProcessor run: trigger reason - SyncAdapterNetworkTickle 
+Thu Jan 02 03:05:49 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 03:05:49 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Thu Jan 02 03:05:49 GMT+08:00 2020 DATA AutoUploadService startSync invoked. 
+Thu Jan 02 03:05:50 GMT+08:00 2020 DATA CameraRollBackupProcessor Saved buckets found: 465 
+Thu Jan 02 03:05:50 GMT+08:00 2020 I com.microsoft.skydrive.i.b refreshMetadata onComplete() 
+Thu Jan 02 03:05:50 GMT+08:00 2020 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Thu Jan 02 03:05:52 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Thu Jan 02 03:05:52 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Thu Jan 02 03:05:52 GMT+08:00 2020 DATA AutoUploadService endSync invoked with error code: 0 
+Thu Jan 02 03:05:52 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 03:05:52 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 03:07:07 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 03:07:07 GMT+08:00 2020 E a Network request failed:  okhttp3.internal.http2.ConnectionShutdownException
+	at okhttp3.internal.http2.Http2Connection.newStream(SourceFile:248)
+	at okhttp3.internal.http2.Http2Connection.newStream(SourceFile:231)
+	at okhttp3.internal.http2.Http2Codec.writeRequestHeaders(SourceFile:117)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(SourceFile:50)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at com.microsoft.authorization.b.i$e.b(SourceFile:477)
+	at com.microsoft.authorization.b.i$e.intercept(SourceFile:370)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(SourceFile:45)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(SourceFile:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(SourceFile:126)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(SourceFile:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(SourceFile:254)
+	at okhttp3.RealCall.execute(SourceFile:92)
+	at com.microsoft.skydrive.communication.a.onExecute(SourceFile:129)
+	at com.microsoft.skydrive.upload.FileUploadNetworkTaskBase.onExecute(SourceFile:307)
+	at com.microsoft.odsp.task.TaskBase.run(SourceFile:84)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+Thu Jan 02 03:07:07 GMT+08:00 2020 DATA SyncService pauseService did retry for network error. 
+Thu Jan 02 03:07:07 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: NetworkError Paused: false 
+Thu Jan 02 03:07:07 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 03:07:07 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 03:07:07 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.SCHEDULE_ITEMS cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 03:07:07 GMT+08:00 2020 V AutoUploadService failed to load item 200 with error code: NetworkError 
+Thu Jan 02 03:07:08 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 03:07:09 GMT+08:00 2020 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: QuotaExceeded Paused: true 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor startBackup finished. 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeGetAllMediaItems:      0.046 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemScanned:          362 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalSizeHashed:           0 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsHashed:          0 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeTotalHashing:          0.0 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor mMetadataQueried:           0 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeMetadataQueried:       0.0 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor mSyncMetadataQueried:       362 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeSyncMetadataQueried:   1.407 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForProcessing:         79.893 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForMetadataRefreshing: 0.094 
+Thu Jan 02 03:07:09 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsEnqueuedForUpload: 0 
+Thu Jan 02 03:07:09 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.SCHEDULE_ITEMS cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 03:07:09 GMT+08:00 2020 V AutoUploadService failed to load item 200 with error code: QuotaExceeded 
+Thu Jan 02 03:08:12 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Thu Jan 02 03:08:12 GMT+08:00 2020 I CameraRollBackupProcessor run: trigger reason - SyncAdapterNetworkTickle 
+Thu Jan 02 03:08:12 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 03:08:12 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Thu Jan 02 03:08:12 GMT+08:00 2020 DATA AutoUploadService startSync invoked. 
+Thu Jan 02 03:08:12 GMT+08:00 2020 DATA CameraRollBackupProcessor Saved buckets found: 465 
+Thu Jan 02 03:08:12 GMT+08:00 2020 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Thu Jan 02 03:08:12 GMT+08:00 2020 I com.microsoft.skydrive.i.b refreshMetadata onComplete() 
+Thu Jan 02 03:08:15 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA AutoUploadService endSync invoked with error code: 0 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor startBackup finished. 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeGetAllMediaItems:      0.031 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemScanned:          362 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalSizeHashed:           0 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsHashed:          0 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeTotalHashing:          0.0 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor mMetadataQueried:           0 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeMetadataQueried:       0.0 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor mSyncMetadataQueried:       362 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeSyncMetadataQueried:   1.121 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForProcessing:         2.436 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor mTimeForMetadataRefreshing: 0.028 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA CameraRollBackupProcessor mTotalItemsEnqueuedForUpload: 0 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA AutoUploadService Battery is charging. 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA AutoUploadService Battery level satisfied: true 
+Thu Jan 02 03:08:15 GMT+08:00 2020 V com.microsoft.authorization.ad Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Thu Jan 02 03:08:15 GMT+08:00 2020 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Thu Jan 02 03:08:15 GMT+08:00 2020 DATA AutoUploadService PauseService with error code: QuotaExceeded Paused: true 
+Thu Jan 02 03:08:15 GMT+08:00 2020 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.fileloader.SCHEDULE_ITEMS cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Thu Jan 02 03:08:15 GMT+08:00 2020 V AutoUploadService failed to load item 200 with error code: QuotaExceeded 
+Thu Jan 02 03:10:19 GMT+08:00 2020 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
